@@ -3,7 +3,7 @@
 
 It predicts whether a movie review is positive or negative
 
-## Tachnologies Used
+## Technologies Used
    1. HTML
    2. CSS
    3. Python
