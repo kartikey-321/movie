@@ -1,7 +1,15 @@
 # Movie Review Prediction
 
 
-It predicts whether a movie review is positive or negative. It is build using Machine Learning and NLP
+It predicts whether a movie review is positive or negative. M
+
+## Tachnologies Used
+   1. HTML
+   2. CSS
+   3. Python
+   4. Machine Learning
+   5. NLP
+   6. Flask
 
 
 
