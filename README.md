@@ -1,7 +1,7 @@
 # Movie Review Prediction
 
 
-It predicts whether a movie review is positive or negative. M
+It predicts whether a movie review is positive or negative
 
 ## Tachnologies Used
    1. HTML
