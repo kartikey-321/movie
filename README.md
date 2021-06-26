@@ -1,4 +1,4 @@
-# Movie Review Prediction
+# Movie Review Classifier
 
 
 It predicts whether a movie review is positive or negative
